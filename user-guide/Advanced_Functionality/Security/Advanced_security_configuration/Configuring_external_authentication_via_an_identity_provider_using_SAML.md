@@ -160,7 +160,7 @@ As from DataMiner 10.2.0/10.2.1, it is recommended to create Enterprise Applicat
 
 #### Retrieving the identity provider's metadata file on Azure AD
 
-In Azure AD, the ipMetadata URL can be found under *Single sign-on > SAML Signing Certificate – App Federation Metadata Url*.
+In Azure AD, the ipMetadata URL can be found under *Single sign-on > SAML Certificates – App Federation Metadata Url*.
 
 #### Configuring DataMiner to import users and groups from Azure AD
 
