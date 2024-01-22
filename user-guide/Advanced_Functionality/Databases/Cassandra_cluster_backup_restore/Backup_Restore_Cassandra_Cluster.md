@@ -128,7 +128,7 @@ Execute the following steps on each node in the cluster:
 
       - SSH:
 
-        - *key_file*(path to the rsa private key)
+        - *key_file*(path to the rsa private key on local node and path to the rsa public key the remote node)
         - *port*
 
 ## Taking a backup using Medusa
